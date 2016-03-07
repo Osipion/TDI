@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDI", "Interception\TDI.csproj", "{3A2BDB77-3FAB-4E7B-9EE0-5F6289A5D60E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDI", "TDI\TDI.csproj", "{3A2BDB77-3FAB-4E7B-9EE0-5F6289A5D60E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDI.SampleWebHost", "TDI.SampleWebHost\TDI.SampleWebHost.csproj", "{8D79E531-B4E4-4038-B6CB-7F7F4AD2B461}"
 EndProject
